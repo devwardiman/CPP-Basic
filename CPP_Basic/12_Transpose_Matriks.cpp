@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main() {
-  int i, j, m, n, matriks[10][10], transpose[10][10];
+  int i, j, m, n, matriks[5][5], transpose[5][5];
   cout << "Masukkan jumlah baris matriks: "; cin >> m;
   cout << "Masukkan jumlah kolom matriks: "; cin >> n;
   cout << "Masukkan elemen matriks : " << endl;
