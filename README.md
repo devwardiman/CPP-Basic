@@ -10,4 +10,6 @@
 * [07. Menghitung Keliling Lingkaran](https://github.com/wardimanxixv/CPP-Basic/blob/master/CPP_Basic/07_Menghitung_Keliling_Lingkaran.cpp)
 * [08. Program Penghitung Diskon](https://github.com/wardimanxixv/CPP-Basic/blob/master/CPP_Basic/08_Program_Penghitung_Diskon.cpp)
 * [09. Penjumlahan Matriks](https://github.com/wardimanxixv/CPP-Basic/blob/master/CPP_Basic/09_Penjumlahan_Matriks.cpp)
+* [10. Pengurangan Matriks](https://github.com/wardimanxixv/CPP-Basic/blob/master/CPP_Basic/10_Pengurangan_Matriks.cpp)
+* [11. Perkalian Matriks](https://github.com/wardimanxixv/CPP-Basic/blob/master/CPP_Basic/11_Perkalian_Matriks.cpp)
 
