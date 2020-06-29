@@ -12,4 +12,4 @@
 * [09. Penjumlahan Matriks](https://github.com/wardimanxixv/CPP-Basic/blob/master/CPP_Basic/09_Penjumlahan_Matriks.cpp)
 * [10. Pengurangan Matriks](https://github.com/wardimanxixv/CPP-Basic/blob/master/CPP_Basic/10_Pengurangan_Matriks.cpp)
 * [11. Perkalian Matriks](https://github.com/wardimanxixv/CPP-Basic/blob/master/CPP_Basic/11_Perkalian_Matriks.cpp)
-
+* [12. Transpose Matriks](https://github.com/wardimanxixv/CPP-Basic/blob/master/CPP_Basic/12_Transpose_Matriks.cpp)
