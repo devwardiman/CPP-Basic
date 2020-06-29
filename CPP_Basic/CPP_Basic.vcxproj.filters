@@ -51,5 +51,11 @@
     <ClCompile Include="12_Transpose_Matriks.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="13_Bubble_Sort.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="14_Fibonacci_Rekursif.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -151,6 +151,8 @@
     <ClCompile Include="10_Pengurangan_Matriks.cpp" />
     <ClCompile Include="11_Perkalian_Matriks.cpp" />
     <ClCompile Include="12_Transpose_Matriks.cpp" />
+    <ClCompile Include="13_Bubble_Sort.cpp" />
+    <ClCompile Include="14_Fibonacci_Rekursif.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
