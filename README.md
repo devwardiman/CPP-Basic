@@ -13,3 +13,5 @@
 * [10. Pengurangan Matriks](https://github.com/wardimanxixv/CPP-Basic/blob/master/CPP_Basic/10_Pengurangan_Matriks.cpp)
 * [11. Perkalian Matriks](https://github.com/wardimanxixv/CPP-Basic/blob/master/CPP_Basic/11_Perkalian_Matriks.cpp)
 * [12. Transpose Matriks](https://github.com/wardimanxixv/CPP-Basic/blob/master/CPP_Basic/12_Transpose_Matriks.cpp)
+* [13. Bubble Sort](https://github.com/wardimanxixv/CPP-Basic/blob/master/CPP_Basic/13_Bubble_Sort.cpp)
+* [14. Fibonacci Rekursif](https://github.com/wardimanxixv/CPP-Basic/blob/master/CPP_Basic/14_Fibonacci_Rekursif.cpp)
