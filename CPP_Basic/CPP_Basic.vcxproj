@@ -150,6 +150,7 @@
     <ClCompile Include="09_Penjumlahan_Matriks.cpp" />
     <ClCompile Include="10_Pengurangan_Matriks.cpp" />
     <ClCompile Include="11_Perkalian_Matriks.cpp" />
+    <ClCompile Include="12_Transpose_Matriks.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
