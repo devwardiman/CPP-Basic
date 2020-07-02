@@ -140,6 +140,17 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="01_Biner_to_Decimal.cpp" />
+    <ClCompile Include="02_Biner_to_Hexa.cpp" />
+    <ClCompile Include="03_Biner_to_Octal.cpp" />
+    <ClCompile Include="04_Decimal_to_Biner.cpp" />
+    <ClCompile Include="05_Decimal_to_Hexa.cpp" />
+    <ClCompile Include="06_Decimal_to_Octal.cpp" />
+    <ClCompile Include="07_Hexa_to_Biner.cpp" />
+    <ClCompile Include="08_Hexa_to_Decimal.cpp" />
+    <ClCompile Include="09_Hexa_to_Octal.cpp" />
+    <ClCompile Include="10_Octal_to_Biner.cpp" />
+    <ClCompile Include="11_Octal_to_Decimal.cpp" />
+    <ClCompile Include="12_Octal_to_Hexadecimal.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
