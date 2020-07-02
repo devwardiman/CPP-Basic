@@ -1,5 +1,4 @@
 # C++ Basic Code
-## Create By Muh. Wardiman
 > List of Code:
 * [01. Program Hello World](https://github.com/wardimanxixv/CPP-Basic/blob/master/CPP_Basic/01_Hello_World.cpp)
 * [02. Menentukan Bil. Ganjil Genap](https://github.com/wardimanxixv/CPP-Basic/blob/master/CPP_Basic/02_Bil_Ganjil_Genap.cpp)
